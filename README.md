@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Fabian
+<!-- - 👋 Hi, I’m Fabian
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and Javascript
+-->
 <!-- - 📫 How to reach me ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
